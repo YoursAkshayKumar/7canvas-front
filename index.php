@@ -13,11 +13,11 @@
                                         <div class="slide_content_wrapper mb-0 h-auto bg-dark-100">
                                             <div class="slide_content_inner">
                                                 <div class="meta m-0">
-                                                    <div class="category text-olive text-uppercase">Condominium</div>
+                                                    <div class="category text-olive text-uppercase">Designing Spaces, Building Dreams</div>
                                                 </div>
-                                                <h4><a href="project-details.html" class="text-white">California young menz club in the city center</a></h4>
-                                                <div class="details_link">
-                                                    <a href="project-details.html">
+                                                <h4><a href="projects.php" class="text-white">Crafting homes, offices, and cities with creativity, precision, and purpose.</a></h4>
+                                                <!-- <div class="details_link">
+                                                    <a href="projects.php">
                                                         <span class="link_text">View Details</span> 
                                                         <span class="link_icon">
                                                             <span class="line"></span> 
@@ -25,7 +25,7 @@
                                                             <span class="dot"></span>
                                                         </span>
                                                     </a>
-                                                </div>
+                                                </div> -->
                                             </div>
                                         </div>
                                     </div>
@@ -38,11 +38,11 @@
                                         <div class="slide_content_wrapper mb-0 h-auto bg-dark-100">
                                             <div class="slide_content_inner">
                                                 <div class="meta m-0">
-                                                    <div class="category text-olive text-uppercase">Condominium</div>
+                                                    <div class="category text-olive text-uppercase">From Vision to Reality – All Under One Roof</div>
                                                 </div>
-                                                <h4><a href="project-details.html" class="text-white">California winter condominium</a></h4>
-                                                <div class="details_link">
-                                                    <a href="project-details.html">
+                                                <h4><a href="projects.php" class="text-white">Architecture, interiors, planning, and construction seamlessly delivered together.</a></h4>
+                                                <!-- <div class="details_link">
+                                                    <a href="projects.php">
                                                         <span class="link_text">View Details</span> 
                                                         <span class="link_icon">
                                                             <span class="line"></span> 
@@ -50,7 +50,7 @@
                                                             <span class="dot"></span>
                                                         </span>
                                                     </a>
-                                                </div>
+                                                </div> -->
                                             </div>
                                         </div>
                                     </div>
@@ -63,11 +63,11 @@
                                         <div class="slide_content_wrapper mb-0 h-auto bg-dark-100">
                                             <div class="slide_content_inner">
                                                 <div class="meta m-0">
-                                                    <div class="category text-olive text-uppercase">Condominium</div>
+                                                    <div class="category text-olive text-uppercase">Innovative Architecture, Lasting Impressions</div>
                                                 </div>
-                                                <h4><a href="project-details.html" class="text-white">Find your own self invintage lake house</a></h4>
-                                                <div class="details_link">
-                                                    <a href="project-details.html">
+                                                <h4><a href="projects.php" class="text-white">Blending modern design with timeless functionality to create iconic spaces.</a></h4>
+                                                <!-- <div class="details_link">
+                                                    <a href="projects.php">
                                                         <span class="link_text">View Details</span> 
                                                         <span class="link_icon">
                                                             <span class="line"></span> 
@@ -75,7 +75,7 @@
                                                             <span class="dot"></span>
                                                         </span>
                                                     </a>
-                                                </div>
+                                                </div> -->
                                             </div>
                                         </div>
                                     </div>
@@ -215,7 +215,7 @@
                         <div class="col-lg-5 col-md-5">
                             <div class="about_image">
                                 <img src="assets/img/about-us.jpg" alt="img">
-                                <img src="" alt="About" data-aos="fade-down" data-aos-duration="1000">
+                                <!-- <img src="assets/img/about-us.jpg" alt="About" data-aos="fade-down" data-aos-duration="1000"> -->
                             </div>
                         </div>
                         <div class="col-lg-6 col-md-7">
@@ -344,7 +344,7 @@
                                         <div class="works-info">
                                             <div class="label-text">
                                                 <h6><a href="#">Club House</a></h6>
-                                                <h5><a href="project-details.html">California young menz club</a></h5>
+                                                <h5><a href="projects.php">California young menz club</a></h5>
                                             </div>
                                         </div>
                                     </div>
@@ -360,7 +360,7 @@
                                         <div class="works-info">
                                             <div class="label-text">
                                                 <h6><a href="#">Club House</a></h6>
-                                                <h5><a href="project-details.html">California young menz club</a></h5>
+                                                <h5><a href="projects.php">California young menz club</a></h5>
                                             </div>
                                         </div>
                                     </div>
@@ -371,7 +371,7 @@
                                         <div class="works-info">
                                             <div class="label-text">
                                                 <h6><a href="#">Club House</a></h6>
-                                                <h5><a href="project-details.html">California young menz club</a></h5>
+                                                <h5><a href="projects.php">California young menz club</a></h5>
                                             </div>
                                         </div>
                                     </div>
@@ -401,10 +401,10 @@
                         <h2 class="text-white">Project Gallery</h2>
                         <div class="section-desc row align-items-center justify-content-center">
                             <div class="col-lg-6 text-end">
-                                <p>We will continue to grow and evolve Mrittik for the betterment of our clients and our people. Vision includes the continual expansion.</p>
+                                <p>At 7 Canvas, every project tells a story of innovation, functionality, and timeless design. Our gallery showcases a wide range of works—from modern exteriors and elegant interiors to thoughtfully planned landscapes and iconic residences.</p>
                             </div>
                             <div class="col-lg-6 text-start">
-                                <p>We will continue to grow and evolve Mrittik for the betterment of our clients and our people. Vision includes the continual expansion.</p>
+                                <p>We believe in creating spaces that not only look beautiful but also serve a lasting purpose. Each project reflects our commitment to quality, attention to detail, and seamless execution—from concept to completion.</p>
                             </div>
                         </div>
                     </div>
@@ -426,8 +426,8 @@
                                 <div class="works-info">
                                     <div class="label-text">
                                         <h6><a href="#">Lake Cabin</a></h6>
-                                        <h5><a href="project-details.html">California young menz club</a></h5>
-                                        <div class="details_link"><a href="project-details.html"><span class="link_text">View Details</span> <span class="link_icon"><span class="line"></span> <span class="circle"></span><span class="dot"></span></span></a></div>
+                                        <h5><a href="projects.php">California young menz club</a></h5>
+                                        <div class="details_link"><a href="projects.php"><span class="link_text">View Details</span> <span class="link_icon"><span class="line"></span> <span class="circle"></span><span class="dot"></span></span></a></div>
                                     </div>
                                 </div>
                             </div>
@@ -438,8 +438,8 @@
                                 <div class="works-info">
                                     <div class="label-text">
                                         <h6><a href="#">Lake Cabin</a></h6>
-                                        <h5><a href="project-details.html">Sunlight in the Room</a></h5>
-                                        <div class="details_link"><a href="project-details.html"><span class="link_text">View Details</span> <span class="link_icon"><span class="line"></span> <span class="circle"></span><span class="dot"></span></span></a></div>
+                                        <h5><a href="projects.php">Sunlight in the Room</a></h5>
+                                        <div class="details_link"><a href="projects.php"><span class="link_text">View Details</span> <span class="link_icon"><span class="line"></span> <span class="circle"></span><span class="dot"></span></span></a></div>
                                     </div>
                                 </div>
                             </div>
@@ -450,8 +450,8 @@
                                 <div class="works-info">
                                     <div class="label-text">
                                         <h6><a href="#">Lake Cabin</a></h6>
-                                        <h5><a href="project-details.html">Find your own self invintage lake house</a></h5>
-                                        <div class="details_link"><a href="project-details.html"><span class="link_text">View Details</span> <span class="link_icon"><span class="line"></span> <span class="circle"></span><span class="dot"></span></span></a></div>
+                                        <h5><a href="projects.php">Find your own self invintage lake house</a></h5>
+                                        <div class="details_link"><a href="projects.php"><span class="link_text">View Details</span> <span class="link_icon"><span class="line"></span> <span class="circle"></span><span class="dot"></span></span></a></div>
                                     </div>
                                 </div>
                             </div>
@@ -462,8 +462,8 @@
                                 <div class="works-info">
                                     <div class="label-text">
                                         <h6><a href="#">Lake Cabin</a></h6>
-                                        <h5><a href="project-details.html">Well decor house in Sydney</a></h5>
-                                        <div class="details_link"><a href="project-details.html"><span class="link_text">View Details</span> <span class="link_icon"><span class="line"></span> <span class="circle"></span><span class="dot"></span></span></a></div>
+                                        <h5><a href="projects.php">Well decor house in Sydney</a></h5>
+                                        <div class="details_link"><a href="projects.php"><span class="link_text">View Details</span> <span class="link_icon"><span class="line"></span> <span class="circle"></span><span class="dot"></span></span></a></div>
                                     </div>
                                 </div>
                             </div>
@@ -474,8 +474,8 @@
                                 <div class="works-info">
                                     <div class="label-text">
                                         <h6><a href="#">Lake Cabin</a></h6>
-                                        <h5><a href="project-details.html">Huge large area Bedroom</a></h5>
-                                        <div class="details_link"><a href="project-details.html"><span class="link_text">View Details</span> <span class="link_icon"><span class="line"></span> <span class="circle"></span><span class="dot"></span></span></a></div>
+                                        <h5><a href="projects.php">Huge large area Bedroom</a></h5>
+                                        <div class="details_link"><a href="projects.php"><span class="link_text">View Details</span> <span class="link_icon"><span class="line"></span> <span class="circle"></span><span class="dot"></span></span></a></div>
                                     </div>
                                 </div>
                             </div>
@@ -486,8 +486,8 @@
                                 <div class="works-info">
                                     <div class="label-text">
                                         <h6><a href="#">Lake Cabin</a></h6>
-                                        <h5><a href="project-details.html">Clean water in the swiming pool</a></h5>
-                                        <div class="details_link"><a href="project-details.html"><span class="link_text">View Details</span> <span class="link_icon"><span class="line"></span> <span class="circle"></span><span class="dot"></span></span></a></div>
+                                        <h5><a href="projects.php">Clean water in the swiming pool</a></h5>
+                                        <div class="details_link"><a href="projects.php"><span class="link_text">View Details</span> <span class="link_icon"><span class="line"></span> <span class="circle"></span><span class="dot"></span></span></a></div>
                                     </div>
                                 </div>
                             </div>
@@ -498,8 +498,8 @@
                                 <div class="works-info">
                                     <div class="label-text">
                                         <h6><a href="#">Lake Cabin</a></h6>
-                                        <h5><a href="project-details.html">California young menz club</a></h5>
-                                        <div class="details_link"><a href="project-details.html"><span class="link_text">View Details</span> <span class="link_icon"><span class="line"></span> <span class="circle"></span><span class="dot"></span></span></a></div>
+                                        <h5><a href="projects.php">California young menz club</a></h5>
+                                        <div class="details_link"><a href="projects.php"><span class="link_text">View Details</span> <span class="link_icon"><span class="line"></span> <span class="circle"></span><span class="dot"></span></span></a></div>
                                     </div>
                                 </div>
                             </div>
@@ -510,8 +510,8 @@
                                 <div class="works-info">
                                     <div class="label-text">
                                         <h6><a href="#">Lake Cabin</a></h6>
-                                        <h5><a href="project-details.html">Newyork golf club house</a></h5>
-                                        <div class="details_link"><a href="project-details.html"><span class="link_text">View Details</span> <span class="link_icon"><span class="line"></span> <span class="circle"></span><span class="dot"></span></span></a></div>
+                                        <h5><a href="projects.php">Newyork golf club house</a></h5>
+                                        <div class="details_link"><a href="projects.php"><span class="link_text">View Details</span> <span class="link_icon"><span class="line"></span> <span class="circle"></span><span class="dot"></span></span></a></div>
                                     </div>
                                 </div>
                             </div>
@@ -522,8 +522,8 @@
                                 <div class="works-info">
                                     <div class="label-text">
                                         <h6><a href="#">Lake Cabin</a></h6>
-                                        <h5><a href="project-details.html">California young menz club</a></h5>
-                                        <div class="details_link"><a href="project-details.html"><span class="link_text">View Details</span> <span class="link_icon"><span class="line"></span> <span class="circle"></span><span class="dot"></span></span></a></div>
+                                        <h5><a href="projects.php">California young menz club</a></h5>
+                                        <div class="details_link"><a href="projects.php"><span class="link_text">View Details</span> <span class="link_icon"><span class="line"></span> <span class="circle"></span><span class="dot"></span></span></a></div>
                                     </div>
                                 </div>
                             </div>
@@ -534,8 +534,8 @@
                                 <div class="works-info">
                                     <div class="label-text">
                                         <h6><a href="#">Lake Cabin</a></h6>
-                                        <h5><a href="project-details.html">California young menz club</a></h5>
-                                        <div class="details_link"><a href="project-details.html"><span class="link_text">View Details</span> <span class="link_icon"><span class="line"></span> <span class="circle"></span><span class="dot"></span></span></a></div>
+                                        <h5><a href="projects.php">California young menz club</a></h5>
+                                        <div class="details_link"><a href="projects.php"><span class="link_text">View Details</span> <span class="link_icon"><span class="line"></span> <span class="circle"></span><span class="dot"></span></span></a></div>
                                     </div>
                                 </div>
                             </div>
@@ -546,8 +546,8 @@
                                 <div class="works-info">
                                     <div class="label-text">
                                         <h6><a href="#">Lake Cabin</a></h6>
-                                        <h5><a href="project-details.html">California young menz club</a></h5>
-                                        <div class="details_link"><a href="project-details.html"><span class="link_text">View Details</span> <span class="link_icon"><span class="line"></span> <span class="circle"></span><span class="dot"></span></span></a></div>
+                                        <h5><a href="projects.php">California young menz club</a></h5>
+                                        <div class="details_link"><a href="projects.php"><span class="link_text">View Details</span> <span class="link_icon"><span class="line"></span> <span class="circle"></span><span class="dot"></span></span></a></div>
                                     </div>
                                 </div>
                             </div>

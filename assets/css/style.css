@@ -21174,3 +21174,7 @@ body.bg-dark.bg-white .under-construction-page .under-construction-content .sear
   font-size: 64px !important;
   line-height: 6rem !important;
 }
+
+.about_image img:last-child{
+  position: relative !important;
+}
