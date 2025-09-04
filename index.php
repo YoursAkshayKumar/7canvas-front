@@ -630,43 +630,43 @@
             <div class="row">
                 <div class="col-lg-4 col-md-6">
                     <div class="blog_post mb-0">
-                        <img src="assets/img/blog/1.jpg" alt="img">
+                        <img src="assets/img/blog/blog1.jpg" alt="img">
                         <div class="blog_content">
                             <h2 class="post-count">01</h2>
                             <div class="meta">
-                                <time class="text-olive" datetime="2022-10-20">OCTOBER 20, 2022</time>
+                                <time class="text-olive" datetime="2025-09-04">September 04, 2025</time>
                             </div>
-                            <h5><a href="blog-details.html" class="text-white">Recent trends in designing space interiors 2019</a></h5>
-                            <p>Lorem ipsum dolor sit amet consecteur adipiscing elitsed do eiusmod tempor incididunt labo dolore magnaaliqua. Ut eni ad minim veniam dolor sit amet consecteur.....</p>
-                            <div class="details_link"><a href="blog-details.html"><span class="link_text">View Details</span> <span class="link_icon"><span class="line"></span> <span class="circle"></span><span class="dot"></span></span></a></div>
+                            <h5><a href="top-interior-design-trends-that-will-transform-your-home-in-2025.php" class="text-white">Top Interior Design Trends That Will Transform Your Home in 2025</a></h5>
+                            <p>As we step into 2025, interior design continues to evolve, reflecting changing lifestyles, new technologies, and a growing awareness of sustainability. This year’s trends are all about creating spaces that are not only visually stunning.</p>
+                            <div class="details_link"><a href="top-interior-design-trends-that-will-transform-your-home-in-2025.php"><span class="link_text">View Details</span> <span class="link_icon"><span class="line"></span> <span class="circle"></span><span class="dot"></span></span></a></div>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="blog_post mb-0">
-                        <img src="assets/img/blog/2.jpg" alt="img">
+                        <img src="assets/img/blog/blog2.jpg" alt="img">
                         <div class="blog_content">
                             <h2 class="post-count">02</h2>
                             <div class="meta">
-                                <time class="text-olive" datetime="2022-10-20">OCTOBER 20, 2022</time>
+                                <time class="text-olive" datetime="2025-09-03">September 03, 2025</time>
                             </div>
-                            <h5><a href="blog-details.html" class="text-white">Space optimization is now considered as art</a></h5>
-                            <p>Lorem ipsum dolor sit amet consecteur adipiscing elitsed do eiusmod tempor incididunt labo dolore magnaaliqua. Ut eni ad minim veniam dolor sit amet consecteur.....</p>
-                            <div class="details_link"><a href="blog-details.html"><span class="link_text">View Details</span> <span class="link_icon"><span class="line"></span> <span class="circle"></span><span class="dot"></span></span></a></div>
+                            <h5><a href="how-to-choose-the-perfect-interior-design-style-for-your-space.php" class="text-white">How to Choose the Perfect Interior Design Style for Your Space</a></h5>
+                            <p>Designing your home is more than just picking furniture and colors—it’s about creating an environment that reflects your personality, lifestyle, and values. With so many interior design styles to choose from—modern, minimalist, traditional, bohemian.</p>
+                            <div class="details_link"><a href="how-to-choose-the-perfect-interior-design-style-for-your-space.php"><span class="link_text">View Details</span> <span class="link_icon"><span class="line"></span> <span class="circle"></span><span class="dot"></span></span></a></div>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="blog_post mb-0">
-                        <img src="assets/img/blog/3.jpg" alt="img">
+                        <img src="assets/img/blog/blog3.jpg" alt="img">
                         <div class="blog_content">
                             <h2 class="post-count">03</h2>
                             <div class="meta">
-                                <time class="text-olive" datetime="2022-10-20">OCTOBER 20, 2022</time>
+                                <time class="text-olive" datetime="2025-09-02">September 02, 2025</time>
                             </div>
-                            <h5><a href="blog-details.html" class="text-white">Aga khan Award , 2019 see the best shots</a></h5>
-                            <p>Lorem ipsum dolor sit amet consecteur adipiscing elitsed do eiusmod tempor incididunt labo dolore magnaaliqua. Ut eni ad minim veniam dolor sit amet consecteur.....</p>
-                            <div class="details_link"><a href="blog-details.html"><span class="link_text">View Details</span> <span class="link_icon"><span class="line"></span> <span class="circle"></span><span class="dot"></span></span></a></div>
+                            <h5><a href="why-hiring-an-interior-designer-is-a-smart-investment.php" class="text-white">Why Hiring an Interior Designer is a Smart Investment</a></h5>
+                            <p>When people think about interior design, they often imagine it as a luxury service—something reserved for the wealthy or those designing multi-million-dollar homes. But in reality, hiring an interior designer is one of the smartest investments.</p>
+                            <div class="details_link"><a href="why-hiring-an-interior-designer-is-a-smart-investment.php"><span class="link_text">View Details</span> <span class="link_icon"><span class="line"></span> <span class="circle"></span><span class="dot"></span></span></a></div>
                         </div>
                     </div>
                 </div>
