@@ -21178,3 +21178,7 @@ body.bg-dark.bg-white .under-construction-page .under-construction-content .sear
 .about_image img:last-child{
   position: relative !important;
 }
+
+.blog_post .blog_content .post-count {
+  color: rgb(255 255 255) !important;
+}

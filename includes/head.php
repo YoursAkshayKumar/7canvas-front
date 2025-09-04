@@ -9,7 +9,7 @@
         <meta name="author" content="">
 
         <!-- Favicon and touch Icons -->
-        <link href="assets/img/favicon.png" rel="shortcut icon" type="image/png">
+        <link href="assets/img/7-canvas-icon.png" rel="shortcut icon" type="image/png">
         <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
         <link href="assets/img/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72">
         <link href="assets/img/apple-touch-icon-114x114.png" rel="apple-touch-icon" sizes="114x114">
