@@ -39,8 +39,8 @@
                         <img class="item_image" src="../assets/img/portfolio/1.jpg" alt="">
                         <div class="works-info">
                             <div class="label-text">
-                                <h5><a href="project-details.html">California young menz club</a></h5>
-                                <h6><a href="#">Club House</a></h6>
+                                <h5><a href="modern-villa-design.php">Modern Villa Design</a></h5>
+                                <h6><a href="modern-villa-design.php">Pune</a></h6>
                             </div>
                         </div>
                     </div>
@@ -50,8 +50,8 @@
                         <img class="item_image" src="../assets/img/portfolio/2.jpg" alt="">
                         <div class="works-info">
                             <div class="label-text">
-                                <h5><a href="project-details.html">Sunlight in the Room</a></h5>
-                                <h6><a href="#">Club House</a>, <a href="#">Interior</a></h6>
+                                <h5><a href="corporate-office-tower.php">Corporate Office Tower</a></h5>
+                                <h6><a href="corporate-office-tower.php">Mumbai</a></h6>
                             </div>
                         </div>
                     </div>
@@ -61,8 +61,8 @@
                         <img class="item_image" src="../assets/img/portfolio/3.jpg" alt="">
                         <div class="works-info">
                             <div class="label-text">
-                                <h5><a href="project-details.html">Find your own self invintage lake house</a></h5>
-                                <h6><a href="#">Club House</a>, <a href="#">Interior</a></h6>
+                                <h5><a href="urban-apartment-complex.php">Urban Apartment Complex</a></h5>
+                                <h6><a href="urban-apartment-complex.php">Bangalore</a></h6>
                             </div>
                         </div>
                     </div>
@@ -72,8 +72,8 @@
                         <img class="item_image" src="../assets/img/portfolio/4.jpg" alt="">
                         <div class="works-info">
                             <div class="label-text">
-                                <h5><a href="project-details.html">Well decor house in Sydney</a></h5>
-                                <h6><a href="#">Club House</a>, <a href="#">Interior</a></h6>
+                                <h5><a href="heritage-bungalow-restoration.php">Heritage Bungalow Restoration</a></h5>
+                                <h6><a href="heritage-bungalow-restoration.php">Jaipur</a></h6>
                             </div>
                         </div>
                     </div>
@@ -83,8 +83,8 @@
                         <img class="item_image" src="../assets/img/portfolio/5.jpg" alt="">
                         <div class="works-info">
                             <div class="label-text">
-                                <h5><a href="project-details.html">Huge large area Bedroom</a></h5>
-                                <h6><a href="#">Club House</a>, <a href="#">Interior</a></h6>
+                                <h5><a href="luxury-resort.php">Luxury Resort</a></h5>
+                                <h6><a href="luxury-resort.php">Goa</a></h6>
                             </div>
                         </div>
                     </div>
@@ -94,8 +94,8 @@
                         <img class="item_image" src="../assets/img/portfolio/6.jpg" alt="">
                         <div class="works-info">
                             <div class="label-text">
-                                <h5><a href="project-details.html">Clean water in the swiming pool</a></h5>
-                                <h6><a href="#">Club House</a>, <a href="#">Interior</a></h6>
+                                <h5><a href="educational-campus.php">Educational Campus</a></h5>
+                                <h6><a href="educational-campus.php">Delhi</a></h6>
                             </div>
                         </div>
                     </div>
@@ -105,8 +105,8 @@
                         <img class="item_image" src="../assets/img/portfolio/7.jpg" alt="">
                         <div class="works-info">
                             <div class="label-text">
-                                <h5><a href="project-details.html">California young menz club</a></h5>
-                                <h6><a href="#">Club House</a>, <a href="#">Interior</a></h6>
+                                <h5><a href="boutique-hotel-udaipur.php">Boutique Hotel</a></h5>
+                                <h6><a href="boutique-hotel-udaipur.php">Udaipur</a></h6>
                             </div>
                         </div>
                     </div>
@@ -116,8 +116,8 @@
                         <img class="item_image" src="../assets/img/portfolio/8.jpg" alt="">
                         <div class="works-info">
                             <div class="label-text">
-                                <h5><a href="project-details.html">Newyork golf club house</a></h5>
-                                <h6><a href="#">Club House</a>, <a href="#">Interior</a></h6>
+                                <h5><a href="commercial-mall.php">Commercial Mall</a></h5>
+                                <h6><a href="commercial-mall.php">Ahmedabad</a></h6>
                             </div>
                         </div>
                     </div>
@@ -127,8 +127,8 @@
                         <img class="item_image" src="../assets/img/portfolio/1.jpg" alt="">
                         <div class="works-info">
                             <div class="label-text">
-                                <h5><a href="project-details.html">California young menz club</a></h5>
-                                <h6><a href="#">Club House</a>, <a href="#">Interior</a></h6>
+                                <h5><a href="modern-villa-design.php">Modern Villa Design</a></h5>
+                                <h6><a href="modern-villa-design.php">Pune</a></h6>
                             </div>
                         </div>
                     </div>
@@ -138,8 +138,8 @@
                         <img class="item_image" src="../assets/img/portfolio/2.jpg" alt="">
                         <div class="works-info">
                             <div class="label-text">
-                                <h5><a href="project-details.html">California young menz club</a></h5>
-                                <h6><a href="#">Club House</a>, <a href="#">Interior</a></h6>
+                                <h5><a href="corporate-office-tower.php">Corporate Office Tower</a></h5>
+                                <h6><a href="corporate-office-tower.php">Mumbai</a></h6>
                             </div>
                         </div>
                     </div>
@@ -149,8 +149,8 @@
                         <img class="item_image" src="../assets/img/portfolio/3.jpg" alt="">
                         <div class="works-info">
                             <div class="label-text">
-                                <h5><a href="project-details.html">California young menz club</a></h5>
-                                <h6><a href="#">Club House</a>, <a href="#">Interior</a></h6>
+                                <h5><a href="urban-apartment-complex.php">Urban Apartment Complex</a></h5>
+                                <h6><a href="urban-apartment-complex.php">Bangalore</a></h6>
                             </div>
                         </div>
                     </div>
@@ -160,8 +160,8 @@
                         <img class="item_image" src="../assets/img/portfolio/4.jpg" alt="">
                         <div class="works-info">
                             <div class="label-text">
-                                <h5><a href="project-details.html">California young menz club</a></h5>
-                                <h6><a href="#">Club House</a>, <a href="#">Interior</a></h6>
+                                <h5><a href="heritage-bungalow-restoration.php">Heritage Bungalow Restoration</a></h5>
+                                <h6><a href="heritage-bungalow-restoration.php">Jaipur</a></h6>
                             </div>
                         </div>
                     </div>

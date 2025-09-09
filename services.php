@@ -23,7 +23,7 @@
                     <div class="icon_box">
                         <h6>01</h6>
                         <img src="assets/img/icon_box/d1.svg" alt="Icon Box">
-                        <h4 class="text-white"><a href="service-1.html">Architectural Design</a></h4>
+                        <h4 class="text-white"><a href="architectural-design.php">Architectural Design</a></h4>
                         <p class="text-gray-600">
                         <ul>
                             <li>Site analysis and concept planning</li>
@@ -34,16 +34,16 @@
                             <li>Climate-responsive and contextual architecture</li>
                         </ul>
                         </p>
-                        <!-- <div class="arrow_effect">
-                            <a href="service-1.html"><span class="crossline1"></span><span class="crossline2"></span></a>
-                        </div> -->
+                        <div class="arrow_effect">
+                            <a href="architectural-design.php"><span class="crossline1"></span><span class="crossline2"></span></a>
+                        </div>
                     </div>
                 </div>
                 <div class="col-lg-4" data-aos="fade-up" data-aos-duration="700">
                     <div class="icon_box">
                         <h6>02</h6>
                         <img src="assets/img/icon_box/d1.svg" alt="Icon Box">
-                        <h4 class="text-white"><a href="service-1.html">Building Approval Services</a></h4>
+                        <h4 class="text-white"><a href="building-approval-services.php">Building Approval Services</a></h4>
                         <p class="text-gray-600">
                         <ul>
                             <li>Sanction drawings as per local byelaws</li>
@@ -54,16 +54,16 @@
                             <li>Occupancy/Completion certificate assistance.</li>
                         </ul>
                         </p>
-                        <!-- <div class="arrow_effect">
-                            <a href="service-1.html"><span class="crossline1"></span><span class="crossline2"></span></a>
-                        </div> -->
+                        <div class="arrow_effect">
+                            <a href="building-approval-services.php"><span class="crossline1"></span><span class="crossline2"></span></a>
+                        </div>
                     </div>
                 </div>
                 <div class="col-lg-4" data-aos="fade-up" data-aos-duration="900">
                     <div class="icon_box">
                         <h6>03</h6>
                         <img src="assets/img/icon_box/d1.svg" alt="Icon Box">
-                        <h4 class="text-white"><a href="service-1.html">Visualization</a></h4>
+                        <h4 class="text-white"><a href="visualization.php">Visualization</a></h4>
                         <p class="text-gray-600">
                         <ul>
                             <li>3D rendering and walkthrough animations</li>
@@ -74,16 +74,16 @@
                             <li>BIM-based visual documentation</li>
                         </ul>
                         </p>
-                        <!-- <div class="arrow_effect">
-                            <a href="service-1.html"><span class="crossline1"></span><span class="crossline2"></span></a>
-                        </div> -->
+                        <div class="arrow_effect">
+                            <a href="visualization.php"><span class="crossline1"></span><span class="crossline2"></span></a>
+                        </div>
                     </div>
                 </div>
                 <div class="col-lg-4" data-aos="fade-up" data-aos-duration="1100">
                     <div class="icon_box">
                         <h6>04</h6>
                         <img src="assets/img/icon_box/d1.svg" alt="Icon Box">
-                        <h4 class="text-white"><a href="service-1.html">Urban Planning</a></h4>
+                        <h4 class="text-white"><a href="urban-planning.php">Urban Planning</a></h4>
                         <p class="text-gray-600">
                         <ul>
                             <li>Master planning and sector layouts</li>
@@ -94,16 +94,16 @@
                             <li>Public realm and community-based planning</li>
                         </ul>
                         </p>
-                        <!-- <div class="arrow_effect">
-                            <a href="service-1.html"><span class="crossline1"></span><span class="crossline2"></span></a>
-                        </div> -->
+                        <div class="arrow_effect">
+                            <a href="urban-planning.php"><span class="crossline1"></span><span class="crossline2"></span></a>
+                        </div>
                     </div>
                 </div>
                 <div class="col-lg-4" data-aos="fade-up" data-aos-duration="1300">
                     <div class="icon_box">
                         <h6>05</h6>
                         <img src="assets/img/icon_box/d1.svg" alt="Icon Box">
-                        <h4 class="text-white"><a href="service-1.html">Building Construction & Project Management</a></h4>
+                        <h4 class="text-white"><a href="building-construction-and-project-management.php">Building Construction & Project Management</a></h4>
                         <p class="text-gray-600">
                         <ul>
                             <li>Turnkey civil construction (foundation to finish)</li>
@@ -114,16 +114,16 @@
                             <li>Snagging and final handover support</li>
                         </ul>
                         </p>
-                        <!-- <div class="arrow_effect">
-                            <a href="service-1.html"><span class="crossline1"></span><span class="crossline2"></span></a>
-                        </div> -->
+                        <div class="arrow_effect">
+                            <a href="building-construction-and-project-management.php"><span class="crossline1"></span><span class="crossline2"></span></a>
+                        </div>
                     </div>
                 </div>
                 <div class="col-lg-4" data-aos="fade-up" data-aos-duration="1500">
                     <div class="icon_box">
                         <h6>06</h6>
                         <img src="assets/img/icon_box/d1.svg" alt="Icon Box">
-                        <h4 class="text-white"><a href="service-1.html">Interior Design</a></h4>
+                        <h4 class="text-white"><a href="interior-design.php">Interior Design</a></h4>
                         <p class="text-gray-600">
                         <ul>
                             <li>Functional space planning</li>
@@ -134,9 +134,9 @@
                             <li>On-site styling and supervision</li>
                         </ul>
                         </p>
-                        <!-- <div class="arrow_effect">
-                            <a href="service-1.html"><span class="crossline1"></span><span class="crossline2"></span></a>
-                        </div> -->
+                        <div class="arrow_effect">
+                            <a href="interior-design.php"><span class="crossline1"></span><span class="crossline2"></span></a>
+                        </div>
                     </div>
                 </div>
             </div>

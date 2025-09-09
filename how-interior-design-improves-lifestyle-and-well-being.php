@@ -28,12 +28,10 @@
                     <div class="project-details_inner">
                         <div class="post_content">
                             <div class="post-header">
-                                <h3 class="post-title">California Mansion Residence</h3>
+                                <h3 class="post-title">How Interior Design Improves Lifestyle and Well-being</h3>
                             </div>
                             <div class="intro">
-                                <p>
-                                    Mrittik Architects is a full-service design firm providing architecture, master planning, urban design, interior architecture, space planning and programming. Our portfolio of completed work includes highly acclaimed and award-winning projects for clients around the country.
-                                </p>
+                                <p>As we step into 2025, interior design continues to evolve, reflecting changing lifestyles, new technologies, and a growing awareness of sustainability. This year’s trends are all about creating spaces that are not only visually stunning but also practical, comfortable, and deeply personal. Whether you’re planning a full home makeover or just looking to refresh a few rooms, here are the top interior design trends that will transform your home in 2025.</p>
                             </div>
                             <div class="fulltext">
                                 <figure class="block-gallery mb-0">
@@ -96,8 +94,9 @@
                                     </div>
                                 </div>
 
+                                
                                 <!-- Comment List -->
-                                <div class="comments-area">
+                                <!-- <div class="comments-area">
                                     <h3 class="comments-title">Comments <span class="title-line"></span></h3>
                                     <ul class="comment-list">
                                         <li class="comment even thread-even depth-1">
@@ -128,9 +127,9 @@
                                                             </div>
                                                         </div>
                                                     </div>
-                                                </li><!-- #comment-## -->
-                                            </ul><!-- .children -->
-                                        </li><!-- #comment-## -->
+                                                </li>
+                                            </ul>
+                                        </li>
                                         <li class="comment odd thread-odd depth-1">
                                             <div class="commenter-block">
                                                 <div class="comment-avatar">
@@ -144,7 +143,7 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                        </li><!-- #comment-## -->
+                                        </li>
                                     </ul>
                                     <div class="comments-pagination">
                                         <a class="page-numbers" href="#">1</a>
@@ -181,7 +180,8 @@
                                             </div>
                                         </div>
                                     </form>
-                                </div>
+                                </div> -->
+                                
                             </div>
                         </div>
                     </div>
