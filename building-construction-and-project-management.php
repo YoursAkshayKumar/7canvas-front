@@ -77,39 +77,15 @@
                                 <h3 class="post-title">Building Construction & Project Management</h3>
                             </div>
                             <div class="fulltext">
-                                <p>
-                                    Mrittik Architects is a full-service design firm providing architecture, master planning, urban design, interior architecture, space planning and programming. Our portfolio of completed work includes highly acclaimed and award-winning projects for clients around the country.
-                                </p>
-
-                                <h6 class="widget-title">
-                                    Project Features
-                                    <span class="title-line"></span>
-                                </h6>
-                                <p>We design with people in mind and use every expertise at our disposal.Our practice connects communities and is committed to the stewardship of place, people, and the environment.</p>
-                                <ul class="point_order">
-                                    <li>The talent at Mrittik runs wide and deep. Across many markets, geographies &amp; typologies.</li>
-                                    <li>Our team members are some of the finest professionals in the industry.</li>
-                                    <li>Organized to deliver the most specialized service possible and enriched by the depth.</li>
+                                <ul class="text-gray-600">
+                                    <li>Turnkey civil construction (foundation to finish)</li>
+                                    <li>BOQ preparation, vendor management &amp; billing</li>
+                                    <li>Site supervision and progress monitoring</li>
+                                    <li>Time-cost-quality management (Bar Chart, QC)</li>
+                                    <li>Labour tracking and safety protocol enforcement</li>
+                                    <li>Snagging and final handover support</li>
                                 </ul>
-
-                                <p>
-                                    Mrittik Architects is a full-service design firm providing architecture, master planning, urban design, interior architecture, space planning and programming. Our portfolio of completed work includes highly acclaimed and award-winning projects for clients around the country.
-                                </p>
-
-                                <p>
-                                    You don’t create unforgettable spaces all over the world with a single design tool. Our expertise in drawing people together is as broad as it is deep. It draws from a variety of disciplines, each one contributing to the bigger picture and sustainable growth. More than 3,000 projects fill our portfolio, but it’s the millions of people who experience them who matter most. We’ve grouped our work into five categories: places, venues, spaces, experiences and events. Click on the images below to learn more below about the impact our projects have on communities.
-                                </p>
-
-                                <div class="post-footer">
-                                    <nav class="d-flex align-items-center justify-content-between">
-                                        <div class="details_link l-dir pagination-previous"><a href="#"><span class="link_icon"><span class="line"></span> <span class="circle"></span><span class="dot"></span></span></a></div>
-                                        <div class="page-all"><a href="#"><i class="bi bi-grid"></i></a></div>
-                                        <div class="details_link r-dir pagination-next"><a href="#"><span class="link_icon"><span class="line"></span> <span class="circle"></span><span class="dot"></span></span></a></div>
-                                    </nav>
-                                </div>
                             </div>
-
-                          
                         </div>
                     </div>
                 </div>

@@ -7,9 +7,9 @@
             <div class="page_header_content d-flex align-items-center justify-content-between">
                 <h2 class="heading">Blog Details</h2>
                 <ul class="breadcrumb d-flex align-items-center">
-                    <li><a href="index.html">Home</a></li>
-                    <li><a href="blog.html">Blog</a></li>
-                    <li class="active">California Mansion Residence</li>
+                    <li><a href="index.php">Home</a></li>
+                    <li><a href="blogs.php">Blog</a></li>
+                    <li class="active">How to Choose the Perfect Interior Design Style for Your Space</li>
                 </ul>
             </div>
         </div>

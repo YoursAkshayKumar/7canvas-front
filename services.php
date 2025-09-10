@@ -24,8 +24,7 @@
                         <h6>01</h6>
                         <img src="assets/img/icon_box/d1.svg" alt="Icon Box">
                         <h4 class="text-white"><a href="architectural-design.php">Architectural Design</a></h4>
-                        <p class="text-gray-600">
-                        <ul>
+                        <ul class="text-gray-600">
                             <li>Site analysis and concept planning</li>
                             <li>Schematic layout and massing studies</li>
                             <li>Floor plans, elevations, and sections</li>
@@ -33,7 +32,6 @@
                             <li>Working drawings and execution sets</li>
                             <li>Climate-responsive and contextual architecture</li>
                         </ul>
-                        </p>
                         <div class="arrow_effect">
                             <a href="architectural-design.php"><span class="crossline1"></span><span class="crossline2"></span></a>
                         </div>
@@ -44,8 +42,7 @@
                         <h6>02</h6>
                         <img src="assets/img/icon_box/d1.svg" alt="Icon Box">
                         <h4 class="text-white"><a href="building-approval-services.php">Building Approval Services</a></h4>
-                        <p class="text-gray-600">
-                        <ul>
+                        <ul class="text-gray-600">
                             <li>Sanction drawings as per local byelaws</li>
                             <li>FSI, setback, and coverage compliance</li>
                             <li>Fire safety, RWH &amp; green compliance drawings</li>
@@ -53,7 +50,6 @@
                             <li>Structural &amp; soil report alignment</li>
                             <li>Occupancy/Completion certificate assistance.</li>
                         </ul>
-                        </p>
                         <div class="arrow_effect">
                             <a href="building-approval-services.php"><span class="crossline1"></span><span class="crossline2"></span></a>
                         </div>
@@ -64,8 +60,7 @@
                         <h6>03</h6>
                         <img src="assets/img/icon_box/d1.svg" alt="Icon Box">
                         <h4 class="text-white"><a href="visualization.php">Visualization</a></h4>
-                        <p class="text-gray-600">
-                        <ul>
+                        <ul class="text-gray-600">
                             <li>3D rendering and walkthrough animations</li>
                             <li>AR/VR-enabled virtual tours</li>
                             <li>360° panoramas for immersive design reviews</li>
@@ -73,7 +68,6 @@
                             <li>Concept videos and marketing visuals</li>
                             <li>BIM-based visual documentation</li>
                         </ul>
-                        </p>
                         <div class="arrow_effect">
                             <a href="visualization.php"><span class="crossline1"></span><span class="crossline2"></span></a>
                         </div>
@@ -84,8 +78,7 @@
                         <h6>04</h6>
                         <img src="assets/img/icon_box/d1.svg" alt="Icon Box">
                         <h4 class="text-white"><a href="urban-planning.php">Urban Planning</a></h4>
-                        <p class="text-gray-600">
-                        <ul>
+                        <ul class="text-gray-600">
                             <li>Master planning and sector layouts</li>
                             <li>Zoning and land use strategy</li>
                             <li>Smart street and vending zone design</li>
@@ -93,7 +86,6 @@
                             <li>Feasibility studies and urban diagnostics</li>
                             <li>Public realm and community-based planning</li>
                         </ul>
-                        </p>
                         <div class="arrow_effect">
                             <a href="urban-planning.php"><span class="crossline1"></span><span class="crossline2"></span></a>
                         </div>
@@ -104,8 +96,7 @@
                         <h6>05</h6>
                         <img src="assets/img/icon_box/d1.svg" alt="Icon Box">
                         <h4 class="text-white"><a href="building-construction-and-project-management.php">Building Construction & Project Management</a></h4>
-                        <p class="text-gray-600">
-                        <ul>
+                        <ul class="text-gray-600">
                             <li>Turnkey civil construction (foundation to finish)</li>
                             <li>BOQ preparation, vendor management &amp; billing</li>
                             <li>Site supervision and progress monitoring</li>
@@ -113,7 +104,6 @@
                             <li>Labour tracking and safety protocol enforcement</li>
                             <li>Snagging and final handover support</li>
                         </ul>
-                        </p>
                         <div class="arrow_effect">
                             <a href="building-construction-and-project-management.php"><span class="crossline1"></span><span class="crossline2"></span></a>
                         </div>
@@ -124,8 +114,7 @@
                         <h6>06</h6>
                         <img src="assets/img/icon_box/d1.svg" alt="Icon Box">
                         <h4 class="text-white"><a href="interior-design.php">Interior Design</a></h4>
-                        <p class="text-gray-600">
-                        <ul>
+                        <ul class="text-gray-600">
                             <li>Functional space planning</li>
                             <li>Furniture design and execution drawings</li>
                             <li>Lighting, ceiling, and flooring design</li>
@@ -133,7 +122,6 @@
                             <li>Custom cabinetry and soft furnishing integration</li>
                             <li>On-site styling and supervision</li>
                         </ul>
-                        </p>
                         <div class="arrow_effect">
                             <a href="interior-design.php"><span class="crossline1"></span><span class="crossline2"></span></a>
                         </div>
