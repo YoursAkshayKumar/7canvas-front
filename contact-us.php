@@ -22,7 +22,11 @@
 <main class="wrapper">
     <section class="gmap box_padding">
         <div class="gmapbox" data-aos="zoom-in" data-aos-duration="1000">
-            <div id="googleMap" class="map"></div>
+            <!-- <div id="googleMap" class="map"></div> -->
+
+            <div class="mapouter"><div class="gmap_canvas">
+                <iframe class="gmap_iframe" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=1240&amp;height=630&amp;hl=en&amp;q=MSEVEN COMPLEX, First Floor, Shop 15, A Block, Pallavpuram, Meerut, Uttar Pradesh 250110&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe><a href="https://embed-googlemap.com">embed-googlemap.com</a></div><style>.mapouter{position:relative;text-align:right;width:1240px;height:630px;}.gmap_canvas {overflow:hidden;background:none!important;width:1240px;height:630px;}.gmap_iframe {width:1240px!important;height:630px!important;}</style></div>
+
         </div>
     </section>
 
